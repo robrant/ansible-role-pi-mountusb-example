@@ -1,4 +1,4 @@
 - hosts: pis
   roles:
     - mount-usb
-  tags: usb
+  tags: mount-usb
