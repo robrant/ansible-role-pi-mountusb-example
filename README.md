@@ -33,4 +33,4 @@ Example playbook to show how to make calls to the ansible role that mounts an ex
 
 * Run it
 
-      $> ansible-playbook -i hosts playbook.yml
+      $> ansible-playbook --user=pi --ask-pass -i hosts playbook.yml

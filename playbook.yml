@@ -2,3 +2,4 @@
   roles:
     - mount-usb
   tags: mount-usb
+  gather_facts: true
